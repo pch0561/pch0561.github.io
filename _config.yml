@@ -2,5 +2,5 @@ theme: jekyll-theme-minimal
 title: Chanho Park
 subtitle: Curriculum vitae
 name: Chanho Park
-logo: "/assets/images/profile-image.jpg"
+logo: /assets/images/profile-image.jpg
 description: This page is curriculum vitae of chanho park
