@@ -1,5 +1,5 @@
 ## Profile  
- Graduate student who Ph.D degree in Yonsei University, Seoul, Korea.   
+ Graduate student who pursuing the Ph.D degree in Yonsei University, Seoul, Korea.   
    
  Email : ch.park@yonsei.ac.kr  
  Github : pch0561  
