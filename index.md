@@ -4,6 +4,10 @@
 ## Research Interest
  Computer architecture, Accelerator specialized for deep learning  
  
+## On going Project
+  Simulating Neural Processing Unit (2019.12 ~ )  
+  Mesure the performance on edge devices (2019.9 ~)  
+  
 ## Programming Skills
  C/C++, Python, Matlab  
  Window / Linux file system  
