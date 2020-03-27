@@ -7,4 +7,7 @@
  Window / Linux file system  
 ## Education  
  B.S. Electronics engineering, Kyungpook Nat. Unviersity, Deagu, Korea.  
+  
+## Experience
+ 
 ## Publication  
