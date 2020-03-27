@@ -1,7 +1,6 @@
 ## Profile  
  Graduate student who Ph.D degree in Yonsei University, Seoul, Korea.   
    
- 
  Email : ch.park@yonsei.ac.kr  
  Github : pch0561  
  Bitbucket : cha_nho  
