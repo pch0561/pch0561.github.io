@@ -10,7 +10,7 @@
  Computer architecture, Accelerator specialized for deep learning  
  
 ## On going Project
-  Simulating Neural Processing Unit (2019.12 ~ )  
+  Simulating the neural processing unit (2019.12 ~ )  
   Mesure the performance on edge devices (2019.9 ~)  
   
 ## Programming Skills
