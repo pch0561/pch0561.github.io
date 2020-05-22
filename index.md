@@ -24,4 +24,4 @@
  T.A, Operating System (2019-2), Yonsei University.  
 
 ## Publication  
- B. Kim, S. Lee, C. Park, H. Kim, and W. Song, "The Nebula Benchmark Suite: Implications of LIghtweight Neural Networks" (under review)
+ B. Kim, S. Lee, _C. Park_, H. Kim, and W. Song, "The Nebula Benchmark Suite: Implications of LIghtweight Neural Networks" (under review)
